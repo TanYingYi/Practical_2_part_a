@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TanYingYi_19WMD03023</string>
+    <string name="Toast">Toast</string>
+    <string name="Toast_text">Toast</string>
+    <string name="count_text">COUNT</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello AACS3353</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+</resources>
